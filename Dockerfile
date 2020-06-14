@@ -55,4 +55,4 @@ RUN export PYSPARK_DRIVER_PYTHON_OPTS="notebook"
 
 RUN export PYSPARK_PYTHON=python3
 
-RUN pip install findspark
+RUN pip install findspark 
